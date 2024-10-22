@@ -56,4 +56,4 @@ If you encounter any issues:
 3. Check the console for any error messages.
 4. If videos are not loading or playing correctly, check your internet connection and ensure your browser is up to date.
 
-For more help, please refer to the [Vite documentation](https://vitejs.dev/guide/) and [Supabase documentation](https://supabase.io/docs).
+For more help, please refer to the [Vite documentation](https://vitejs.dev/guide/) [Supabase documentation](https://supabase.io/docs)
